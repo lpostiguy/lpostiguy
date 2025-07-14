@@ -26,17 +26,18 @@ Skilled programmer specializing in React.js with extensive experience in develop
 
 ### 📊 GitHub Stats
 
-- 🔥 **800+ commits** across personal and open-source projects
-- 🧠 **4 years of coding experience**
-- 🚀 Built and scaled a platform supporting **20K+ users & 2K+ games**
-- 🌍 Projects used in **USA + Canada** with **1M+ restaurant integrations**
-- 🛠️ Favorite stack: **React.js**, **TypeScript**, **Node.js**, **MongoDB**
+- 🧠 **4+ years** of experience building full-stack apps
+- 🏗️ Scaled **Liifer** to serve **20K+ users** with **1M+ restaurants**
+- 🎮 Integrated food ordering with **2,000+ video games**
+- 💻 Focused on UI/UX, performance, and accessibility
+- 🗺️ Active in **Canada & USA** | Fully bilingual (EN / FR)
+- 🛠️ Favorite stack: **React**, **TypeScript**, **Node.js**, **MongoDB**
 
 ---
 ![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/lp_ostiguy?theme=neutral)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lpostiguy&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpostiguy&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=false&disable_animations=true&number_format=short&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpostiguy&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpostiguy&layout=compact&theme=transparent&hide_progress=true)
 
 ---
