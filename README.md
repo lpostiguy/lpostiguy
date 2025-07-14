@@ -33,6 +33,7 @@ Skilled programmer specializing in React.js with extensive experience in develop
 - 🛠️ Favorite stack: **React.js**, **TypeScript**, **Node.js**, **MongoDB**
 
 ---
+![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/lp_ostiguy?theme=neutral)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lpostiguy&theme=default)
 
