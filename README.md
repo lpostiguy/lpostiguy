@@ -24,7 +24,7 @@ Skilled programmer specializing in React.js with extensive experience in develop
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Overall Stats
 
 - 🧠 **4+ years** of experience building full-stack apps
 - 🏗️ Scaled **Liifer** to serve **20K+ users** with **1M+ restaurants**
@@ -34,10 +34,16 @@ Skilled programmer specializing in React.js with extensive experience in develop
 - 🛠️ Favorite stack: **React**, **TypeScript**, **Node.js**, **MongoDB**
 
 ---
-![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/lp_ostiguy?theme=neutral)
+#### 📊 Leetcode Stats
+  <img src="https://leetcode-badge-sage.vercel.app/badge/lp_ostiguy?theme=neutral" alt="LeetCode Stats" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lpostiguy&show_icons=true&include_all_commits=true&hide_rank=true&text_bold=false&disable_animations=true&number_format=short&theme=transparent)
+#### 📊 GitHub Stats
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 20px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lpostiguy&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpostiguy&layout=compact&theme=transparent&hide=OpenSCAD" alt="Top Languages" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpostiguy&layout=compact&theme=transparent&hide_progress=true)
+</div>
 
 ---
