@@ -18,10 +18,13 @@ Skilled programmer specializing in React.js with extensive experience in develop
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Flutter" width="22px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2108/PNG/512/flutter_icon_130936.png" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://staging.svgrepo.com/show/331488/mongodb.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" />
+<img align="left" alt="Stripe" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGluJhW7I1NYU7jF77E-9K9I46_ib_DUNHw&s" />
+<img align="left" alt="Figma" width="32px" style="padding-right:10px;" src="https://miro.medium.com/v2/resize:fit:1400/1*6XgfDCVn81AYX68Xvd2I-g@2x.png" />
 <br />
 
 ---
