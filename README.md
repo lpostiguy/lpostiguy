@@ -29,7 +29,7 @@ Skilled programmer specializing in React.js with extensive experience in develop
 ### 📊 Overall Stats
 
 - 🧠 **4+ years** of experience building full-stack apps
-- 🏗️ Scaled **Liifer** to serve **20K+ users** with **1M+ restaurants**
+- 📊 Scaled **Liifer** to serve **20K+ users** with **1M+ restaurants**
 - 🎮 Integrated food ordering with **2,000+ video games**
 - 💻 Focused on UI/UX, performance, and accessibility
 - 🗺️ Active in **Canada & USA** | Fully bilingual (EN / FR)
