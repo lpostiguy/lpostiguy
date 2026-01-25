@@ -36,7 +36,7 @@ Skilled programmer specializing in React.js with extensive experience in develop
 - 🎮 Integrated food ordering with **2,000+ video games**
 - 💻 Focused on UI/UX, performance, and accessibility
 - 🗺️ Active in **Canada & USA** | Fully bilingual (EN / FR)
-- 🛠️ Favorite stack: **React**, **TypeScript**, **Node.js**, **MongoDB**
+- 🛠️ Favorite stack: **React**, **TypeScript/JavaScript**, **Node.js**, **MongoDB**, **Express.JS**
 
 ---
 #### 📊 Leetcode Stats
@@ -44,8 +44,6 @@ Skilled programmer specializing in React.js with extensive experience in develop
 
 #### 📊 GitHub Stats
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 20px;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lpostiguy&show_icons=true&include_all_commits=true&hide=issues,stars,contribs&rank_icon=github&theme=transparent" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpostiguy&layout=compact&hide_progress=true&theme=transparent&hide=OpenSCAD" alt="Top Languages" />
 
