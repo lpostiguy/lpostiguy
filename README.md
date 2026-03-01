@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lpostiguy--portfolio.vercel.app-blue?style=flat-square)](https://lpostiguy-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LP--Ostiguy-0077B5?style=flat-square)](https://www.linkedin.com/in/louis-philippe-ostiguy-7365ba206/)
-[![Email](https://img.shields.io/badge/Email-louis--philippe@liifer.com-D14836?style=flat-square)](mailto:louis-philippe@liifer.com)
+[![Email](https://img.shields.io/badge/Email-louis--philippe@liifer.com-D14836?style=flat-square)](mailto:lp.ostiguy@gmail.com)
 
 I am a Software Developer and the founder of **Liifer**, an in-game food ordering platform serving **20,000+ users** across North America. Currently, I'm architecting AI-driven backend solutions at **Textpro**.
 
