@@ -1,5 +1,5 @@
 # 🎮🍕 Louis-Philippe Ostiguy
-**`Software Developer | Founder & Lead Frontend at Liifer`**
+**`Backend Software Engineer & Founder`**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lpostiguy--portfolio.vercel.app-blue?style=flat-square)](https://lpostiguy-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LP--Ostiguy-0077B5?style=flat-square)](https://www.linkedin.com/in/louis-philippe-ostiguy-7365ba206/)
