@@ -67,7 +67,7 @@ I am a Backend Engineer & Founder of **Liifer**, an in-game food ordering platfo
 ---
 
 ### 🎓 Education & Certs
-* **B.Sc. Computer Science** | Université de Montréal (Expected May 2026)
+* **B.Sc. Computer Science** | Université de Montréal (Expected April 2026)
 
 ---
 
